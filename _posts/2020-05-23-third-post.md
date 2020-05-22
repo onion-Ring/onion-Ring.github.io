@@ -7,4 +7,4 @@ Entered the Department of Electronic and Electrical Engineering at Sungkyunkwan 
 Double majored in Software in the first semester of 2020.
 <br>
 Having a hard time because it's my first time at Github, but I'll try my best.
-<img src="assets/SmartSelectImage_2020-05-23-04-53-39.png"></img>
+<img src="/assets/SmartSelectImage_2020-05-23-04-53-39.png"/>
