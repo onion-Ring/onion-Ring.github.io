@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "장병우2018310927 "
-date:   2019-05-23 21:03:36 +0530
+title:  "**WHO AM I**"
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+Entered the Department of Electronic and Electrical Engineering at Sungkyunkwan University in 2018 and double majored in Software in the first semester of 2020.
+<br>
+Having a hard time because it's my first time at Github, but I'll try my best.
 
 ![texture theme preview](https://images.unsplash.com/photo-1500322969630-a26ab6eb64cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
 
