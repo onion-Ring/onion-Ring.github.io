@@ -16,7 +16,7 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: 초보의 개발 생존기
+  title: 초보의 개발 생존기 <br>
   tagline: SKKU.EEE 장병우
   date_format: "%b %-d, %Y"
   style: green
