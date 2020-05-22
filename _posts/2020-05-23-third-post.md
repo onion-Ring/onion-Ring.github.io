@@ -7,6 +7,6 @@ title:  "About Our Project"
 <img src="/assets/SmartSelectImage_2020-05-23-04-53-39.png"/>
 <br>
 2. 오픈소스 결정
-<br>
+<br><br><br>
 <img src="/assets/SmartSelectImage_2020-05-23-04-53-59.png"/>
 <br>
