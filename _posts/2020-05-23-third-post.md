@@ -10,3 +10,7 @@ title:  "About Our Project"
 <br><br><br>
 <img src="/assets/SmartSelectImage_2020-05-23-04-53-59.png"/>
 <br>
+3. 팀 페이지 생성
+<br><br><br>
+<img src="/assets/SmartSelectImage_2020-05-23-04-53-59.png"/>
+<br>
