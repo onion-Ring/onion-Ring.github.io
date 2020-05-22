@@ -1,15 +1,11 @@
 ---
 layout: post
-title:  "WHO AM I"
+title:  "WHO AM I?"
 ---
-Entered the Department of Electronic and Electrical Engineering at Sungkyunkwan University in 2018 and double majored in Software in the first semester of 2020.
+Entered the Department of Electronic and Electrical Engineering at Sungkyunkwan University in 2018.
+<br>
+Double majored in Software in the first semester of 2020.
 <br>
 Having a hard time because it's my first time at Github, but I'll try my best.
 
-![texture theme preview](https://images.unsplash.com/photo-1500322969630-a26ab6eb64cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+![texture theme preview](https://cdn.pixabay.com/photo/2015/04/23/21/59/tree-736877_960_720.jpg)
