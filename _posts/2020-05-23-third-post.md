@@ -14,3 +14,7 @@ title:  "About Our Project"
 <br><br><br>
 <img src="/assets/SmartSelectImage_2020-05-23-05-03-52.png"/>
 <br>
+4. readme.md 수정
+<br><br><br>
+<img src="/assets/SmartSelectImage_2020-05-23-05-06-15.png"/>
+<br>
