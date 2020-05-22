@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "About Our Project"
 ---
 1. 사용할 언어 결정
