@@ -16,11 +16,11 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: 초보의 개발 생존 <br>
+  title: 내 첫 깃허브 페이지 <br>
   tagline: SKKU.EEE 장병우
   date_format: "%b %-d, %Y"
   style: red
-  showNav: false
+  showNav: true
   showPicker: false
 
   # generate social links in footer
