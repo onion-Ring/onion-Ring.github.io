@@ -3,7 +3,7 @@ layout: page
 title:  "About Our Project"
 ---
 
-```1. 사용할 언어 결정
+1. 사용할 언어 결정
 <br>
 <img src="/assets/SmartSelectImage_2020-05-23-04-53-39.png"/>
 <br>
@@ -18,4 +18,4 @@ title:  "About Our Project"
 4. readme.md 수정
 <br><br><br>
 <img src="/assets/SmartSelectImage_2020-05-23-05-06-15.png"/>
-<br>```
+<br>
