@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "**WHO AM I**"
+title:  "WHO AM I"
 ---
 Entered the Department of Electronic and Electrical Engineering at Sungkyunkwan University in 2018 and double majored in Software in the first semester of 2020.
 <br>
