@@ -2,7 +2,7 @@
 layout: post
 title:  "Assigned Project"
 preview: true
-date:   2019-05-23 21:03:38 +0530
+date:   2020-05-23 21:02:38 +0530
 ---
 This is about Assigned Project<br>
 
