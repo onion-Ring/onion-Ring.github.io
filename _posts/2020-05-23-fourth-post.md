@@ -1,5 +1,6 @@
 ---
 layout: post
+title:  "About Our Project 2 (Contributing Method)"
 
 ---
 
