@@ -5,7 +5,7 @@ preview: true
 date:   2019-05-23 21:03:37 +0530
 ---
 This is about Selecting OSS
-
+1~5 levels exist to explain how we select the oss project
 
 <hr/>
 #1. 사용할 언어 결정
