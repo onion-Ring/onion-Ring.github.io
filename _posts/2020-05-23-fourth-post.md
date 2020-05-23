@@ -3,7 +3,7 @@ layout: post
 title:  "About Our Project 2 (Contributing Method)"
 preview: true
 ---
-
+**This is about Contributing Method**
 <hr/>
 
 - 프로젝트 내에서 나의 역할
