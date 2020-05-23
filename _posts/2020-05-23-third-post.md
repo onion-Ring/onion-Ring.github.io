@@ -2,7 +2,7 @@
 layout: post
 title:  "About Our Project"
 ---
-<li id=""preview">**사용할 언어 결정**</li>
+**<li id=""preview">사용할 언어 결정</li>**
 
 
 ![SmartSelectImage_2020-05-23-04-53-39 preview](https://user-images.githubusercontent.com/63662808/82729691-7a10c100-9d34-11ea-98c1-ebf3aceed142.png)
