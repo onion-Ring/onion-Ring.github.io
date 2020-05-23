@@ -2,12 +2,12 @@
 layout: post
 title:  "About Our Project"
 ---
-<li id=""preview">사용할 언어 결정</li>
+<li id=""preview">**사용할 언어 결정**</li>
 
 
 ![SmartSelectImage_2020-05-23-04-53-39 preview](https://user-images.githubusercontent.com/63662808/82729691-7a10c100-9d34-11ea-98c1-ebf3aceed142.png)
 
-#**2. 오픈소스 결정**
+**2. 오픈소스 결정**
   <li id=""preview">파이썬을 활용한 음악의 시각화, 파이썬을 활용한 알고리즘 공부 2개 선정</li>
 
 ![SmartSelectImage_2020-05-23-04-53-59 preview](https://user-images.githubusercontent.com/63662808/82729689-6ebd9580-9d34-11ea-9a4f-3b21f57aeea0.png)
