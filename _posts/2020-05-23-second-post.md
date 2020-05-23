@@ -4,8 +4,8 @@ title:  "Assigned Project"
 preview: true
 order: 2
 ---
-### **Visuaudio**<br>
-
+### **Visuaudio**
+<br>
 #### A fun GUI application to visualize audio spectrum<br>
 #### Using pyaudio, numpy, ect
 
