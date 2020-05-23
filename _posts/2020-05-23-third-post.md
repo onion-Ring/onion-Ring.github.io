@@ -5,6 +5,7 @@ title:  "About Our Project"
 
 1. 사용할 언어 결정
 <br>
+![texture theme preview](https://images.unsplash.com/photo-1500322969630-a26ab6eb64cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
 ![texture theme preview](/assets/SmartSelectImage_2020-05-23-04-53-39.png)
 <img src="/assets/SmartSelectImage_2020-05-23-04-53-39.png"/>
 <br>
