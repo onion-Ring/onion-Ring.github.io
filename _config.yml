@@ -27,8 +27,10 @@ texture:
       url: "/posts/first-post/"
     - title: Assigned Project
       url: "/posts/second-post/"
-    - title: About Our Project
+    - title: About Our Project 1 (Selecting OSS)
       url: "/posts/third-post/"
+    - title: About Our Project 2 (Contribution Method)
+      url: "/posts/fourth-post/"
 
   # generate social links in footer
   social_links:
