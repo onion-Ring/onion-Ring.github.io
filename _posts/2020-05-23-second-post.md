@@ -2,10 +2,9 @@
 layout: post
 title:  "Assigned Project"
 preview: true
-order: 2
+order: 3
 ---
-
-### **Visuaudio**
+**This is about Assigned Project**
 
 #### A fun GUI application to visualize audio spectrum
 
