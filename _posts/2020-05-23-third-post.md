@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "About Our Project"
+title:  "About Our Project 1 (Selecting OSS)"
 ---
 
 <hr/>
-<ul id="preview" >#1. 용할 언어 결정</ul>
+<ul id="preview" >#1. 사용할 언어 결정</ul>
 
 
 ![SmartSelectImage_2020-05-23-04-53-39 preview](https://user-images.githubusercontent.com/63662808/82729691-7a10c100-9d34-11ea-98c1-ebf3aceed142.png)
