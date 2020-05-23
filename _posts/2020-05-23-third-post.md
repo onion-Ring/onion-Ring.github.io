@@ -3,7 +3,7 @@ layout: post
 title:  "About Our Project"
 ---
 
-
+<hr/>
 <ul id="preview" >1. 사용할 언어 결정</ul>
 
 
