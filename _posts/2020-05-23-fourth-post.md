@@ -4,7 +4,8 @@ title:  "About Our Project 2 (Contributing Method)"
 date:   2019-05-23 21:03:36 +0530
 preview: true
 ---
-**This is about Contributing Method**
+This is about Contributing Method<br>
+Explaining Roles, Contribution ways to improve the OSS PROJECT "Visuaudio"
 <hr/>
 
 - 프로젝트 내에서 나의 역할
