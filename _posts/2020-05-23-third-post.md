@@ -2,7 +2,7 @@
 layout: post
 title:  "About Our Project"
 ---
-![1st comment preview]1. 사용할 언어 결정
+![1st comment preview](1. 사용할 언어 결정)
 <ul id=""preview" font-weight="bold">1. 사용할 언어 결정</ul>
 
 
