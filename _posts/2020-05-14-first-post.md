@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "WHO AM I?"
-date:   2019-05-23 21:03:39 +0530
+date:   2020-05-23 21:03:39 +0530
 ---
 Entered the Department of Electronic and Electrical Engineering at Sungkyunkwan University in 2018.
 <br>
