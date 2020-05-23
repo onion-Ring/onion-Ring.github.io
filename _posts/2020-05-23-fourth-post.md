@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "About Our Project 2 (Contributing Method)"
+preview : true
 ---
-<span>
+
 <hr/>
 - 프로젝트 내에서 나의 역할
   - 커뮤니티 활동 계획
@@ -26,4 +27,3 @@ title:  "About Our Project 2 (Contributing Method)"
     - 이어폰을 낀 상태로 test로 실행해봤을때 이어폰 마이크 보다 컴퓨터 마이크가 더 좋은 질을 보여줌
   - 활발한 커밋
     - 프로젝트를 처음 만든 사람이 2주전을 기점으로 활동을 안함 => 커밋을 많이 하여 관심있는 사람들을 모아야 함
-</span>
