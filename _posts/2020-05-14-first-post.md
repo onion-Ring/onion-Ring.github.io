@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "WHO AM I?"
+order: 1
 ---
 Entered the Department of Electronic and Electrical Engineering at Sungkyunkwan University in 2018.
 <br>
