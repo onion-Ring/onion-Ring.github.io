@@ -4,7 +4,7 @@ title:  "About Our Project 2 (Contributing Method)"
 ---
 
 
--프로젝트 내에서 나의 역할
+- 프로젝트 내에서 나의 역할
   - 커뮤니티 활동 계획
       - 팀원이 발견한 희망 개선사항을 issue에서 확인하고 수정 보완
       - 문제사항 발생 시 issue에 등록 
