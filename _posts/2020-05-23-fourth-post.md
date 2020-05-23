@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "About Our Project 2 (Contributing Method)"
-
 ---
 
 <hr/>
+
 - 프로젝트 내에서 나의 역할
   - 커뮤니티 활동 계획
       - 팀원이 발견한 희망 개선사항을 issue에서 확인하고 수정 보완
@@ -15,11 +15,13 @@ title:  "About Our Project 2 (Contributing Method)"
   - 이슈내용 및 고려사항 그리고 제안사항
       - 시각화가 종종 끊기는 문제
       - 파이썬 3.8을 사용할 시 time.clock 메서드 호환 문제
-<br><br>      
+<br><br>
+
 <hr/>
 - 프로젝트의 질이 좋아지기 위해 수정해야 하는 부분
   - User Interface
-    - 
+    - 개발 초기 단계라 UI가 사용자 친화적이지 않음
+    - tkinter를 활용해 친화적으로 다가갈 수 있음
   - 코드의 가독성
     - 한 소스코드 안에서 너무 많은 함수들이 정의 되어 있음
     - 주석처리에서 알아보기 힘든 부분 존재
