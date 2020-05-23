@@ -16,7 +16,7 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: 내 첫 깃허브 페이지 <br>
+  title: My First Github Static Page
   tagline: SKKU.EEE 장병우
   date_format: "%b %-d, %Y"
   style: red
