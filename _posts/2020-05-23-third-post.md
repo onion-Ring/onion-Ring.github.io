@@ -5,6 +5,7 @@ title:  "About Our Project"
 
 1. 사용할 언어 결정
 <br>
+![texture theme preview](/assets/SmartSelectImage_2020-05-23-04-53-39.png)
 <img src="/assets/SmartSelectImage_2020-05-23-04-53-39.png"/>
 <br>
 2. 오픈소스 결정
