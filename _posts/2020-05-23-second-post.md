@@ -4,8 +4,8 @@ title:  "Assigned Project"
 preview: true
 date:   2019-05-23 21:03:38 +0530
 ---
-This is about Assigned Project
-A fun GUI application to visualize audio spectrum
+This is about Assigned Project<br>
+A fun GUI application to visualize audio spectrum<br>
 Using pyaudio, numpy, ect
 
 
