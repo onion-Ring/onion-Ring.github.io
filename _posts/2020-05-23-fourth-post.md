@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "About Our Project 2 (Contributing Method)?"
+title:  "About Our Project 2 (Contributing Method)"
 ---
 Entered the Department of Electronic and Electrical Engineering at Sungkyunkwan University in 2018.
 <br>
