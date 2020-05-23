@@ -2,7 +2,7 @@
 layout: post
 title:  "Assigned Project"
 preview: true
-order: 3
+date:   2019-05-23 21:03:38 +0530
 ---
 **This is about Assigned Project**
 
