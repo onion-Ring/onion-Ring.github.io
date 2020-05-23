@@ -3,7 +3,7 @@ layout: post
 title:  "About Our Project 1 (Selecting OSS)"
 preview: true
 ---
-
+**This is about Selecting OSS**
 <hr/>
 
 <ul>#1. 사용할 언어 결정</ul>
