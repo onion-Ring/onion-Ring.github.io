@@ -1,18 +1,19 @@
 ---
 layout: post
 title:  "About Our Project 1 (Selecting OSS)"
+preview: true
 ---
 
 <hr/>
 
-<ul id="preview">#1. 사용할 언어 결정</ul>
+<ul>#1. 사용할 언어 결정</ul>
 
 
 ![SmartSelectImage_2020-05-23-04-53-39 preview](https://user-images.githubusercontent.com/63662808/82729691-7a10c100-9d34-11ea-98c1-ebf3aceed142.png)
 <hr/>
 
 
-<ul id="preview" font-weight="bold">#2. 오픈소스 결정</ul><br>
+<ul>#2. 오픈소스 결정</ul><br>
 
 ![SmartSelectImage_2020-05-23-04-53-59 preview](https://user-images.githubusercontent.com/63662808/82729689-6ebd9580-9d34-11ea-9a4f-3b21f57aeea0.png)
 <ul id="preview">총 2개 선정</ul>
