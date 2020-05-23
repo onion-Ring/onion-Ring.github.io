@@ -14,10 +14,8 @@ title:  "About Our Project"
 <ul id="preview" font-weight="bold">2. 오픈소스 결정</ul><br>
 
 ![SmartSelectImage_2020-05-23-04-53-59 preview](https://user-images.githubusercontent.com/63662808/82729689-6ebd9580-9d34-11ea-9a4f-3b21f57aeea0.png)
-
-
-<ul id="preview">총 2개 선정</ul><br>
-  <li id="preview">1) 파이썬을 활용한 음악의 시각화</li><br>
+<ul id="preview">총 2개 선정</ul>
+  <li id="preview">1) 파이썬을 활용한 음악의 시각화</li>
   <li id="preview">2) 파이썬을 활용한 알고리즘 공부</li><br>
 <hr/>
 
@@ -33,7 +31,6 @@ title:  "About Our Project"
 
 
 ![SmartSelectImage_2020-05-23-20-36-43 preview](https://user-images.githubusercontent.com/63662808/82729767-28b50180-9d35-11ea-8796-04b923cb5e28.png)
-
 <li id="preview">파이썬을 활용한 음악의 시각화로 최종 선정</li><br>
 <hr/>
 
