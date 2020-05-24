@@ -9,6 +9,7 @@ This is about Assigned Project<br>
 
 
 <hr/>
+
 - A fun GUI application to visualize audio spectrum
 - Using pyaudio, numpy, ect
 
