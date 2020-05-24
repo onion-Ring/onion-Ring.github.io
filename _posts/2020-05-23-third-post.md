@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "About Our Project 1 (Selecting OSS)"
+title:  "About Our Project 1 (Team Progress)"
 preview: true
 date:   2020-05-23 21:01:37 +0530
 ---
-This is about Selecting OSS<br>
+This is about Progress Of Our Team<br>
 1~5 levels exist to explain how we select the oss project
 
 <hr/>
