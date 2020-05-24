@@ -18,6 +18,9 @@ And also team members' role<br>
   - readme.md의 중요 표시 수정
   
   ![SmartSelectImage_2020-05-24-22-43-47](https://user-images.githubusercontent.com/63662808/82755673-1b207a00-9e10-11ea-9248-86dcf7181266.png)
+  
+  - 팀 페이지 수정
+    - 프로젝트 내에서 나의 역할 기입
 <hr/>
 
 - **프로젝트 내에서 팀원들의 역할**
@@ -73,13 +76,7 @@ And also team members' role<br>
           - 리눅스 환경에서 visuaudio 를 실행했을 때 생기는 각종 문제 파악
           - 음원 입력 구체적 가이드라인이 없음
           - 일부 파이썬 패키지의 버전 호환 문제
-<hr/>
 
-- **팀 페이지 수정**
-  - 내 역할 기입
-    - 프로젝트 내에서 나의 역할 기입
-  
-<br><br>
 
-<hr/>
+
 
