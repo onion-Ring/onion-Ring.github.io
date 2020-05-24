@@ -27,7 +27,7 @@ texture:
       url: "/posts/first-post/"
     - title: Assigned Project
       url: "/posts/second-post/"
-    - title: About Our Project 1 (Selecting OSS)
+    - title: About Our Project 1 (Team Progress)
       url: "/posts/third-post/"
     - title: About Our Project 2 (Contribution Method)
       url: "/posts/fourth-post/"
