@@ -8,8 +8,11 @@ This is about Way How to Contribute To Team Project<br>
 And also my role in Team<br>
 
 <hr/>
+
 - 1. 관심있는 오픈소스 조사 후 건의하기
   - visuaudio 건의함
+  
+  ![SmartSelectImage_2020-05-23-04-53-59 preview](https://user-images.githubusercontent.com/63662808/82729689-6ebd9580-9d34-11ea-9a4f-3b21f57aeea0.png)
   
 - 2. 프로젝트 내에서 나의 역할
   - 커뮤니티 활동 계획
