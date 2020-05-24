@@ -19,6 +19,7 @@ And also my role in Team<br>
   
   ![SmartSelectImage_2020-05-24-22-43-47](https://user-images.githubusercontent.com/63662808/82755673-1b207a00-9e10-11ea-9248-86dcf7181266.png)
 <hr/>
+
 - **프로젝트 내에서 나의 역할**
   - 커뮤니티 활동 계획
       - 팀원이 발견한 희망 개선사항을 issue에서 확인하고 수정 보완
@@ -30,6 +31,7 @@ And also my role in Team<br>
       - 시각화가 종종 끊기는 문제
       - 파이썬 3.8을 사용할 시 time.clock 메서드 호환 문제
 <hr/>
+
 - **팀 페이지 수정**
   - 내 역할 기입
     - 프로젝트 내에서 나의 역할 기입
