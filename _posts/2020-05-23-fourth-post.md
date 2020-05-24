@@ -14,6 +14,11 @@ And also my role in Team<br>
   
   ![SmartSelectImage_2020-05-23-04-53-59 preview](https://user-images.githubusercontent.com/63662808/82729689-6ebd9580-9d34-11ea-9a4f-3b21f57aeea0.png)
   
+  
+  - readme.md의 중요 표시 수정
+  
+  ![SmartSelectImage_2020-05-24-22-43-47](https://user-images.githubusercontent.com/63662808/82755673-1b207a00-9e10-11ea-9248-86dcf7181266.png)
+  
 - 2.프로젝트 내에서 나의 역할
   - 커뮤니티 활동 계획
       - 팀원이 발견한 희망 개선사항을 issue에서 확인하고 수정 보완
