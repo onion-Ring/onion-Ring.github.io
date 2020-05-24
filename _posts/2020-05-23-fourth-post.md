@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "About Our Project 2 (Contributing Method)"
+title:  "About Our Project 2 (Contributing)"
 date:   2020-05-23 21:00:36 +0530
 preview: true
 ---
