@@ -22,7 +22,8 @@ texture:
   style: blue
   showNav: true
   showPicker: false
-  navigation:
+  navigation: false
+  /*
     - title: WHO AM I?
       url: "/posts/intro_myself/"
     - title: Assigned Project
@@ -32,7 +33,7 @@ texture:
     - title: About Our Project 2 (My Contribution)
       url: "/posts/contribute/"
     - title: About Our Project 3 (Direction)
-      url: "/posts/direction/"
+      url: "/posts/direction/"*/
 
   # generate social links in footer
   social_links:
