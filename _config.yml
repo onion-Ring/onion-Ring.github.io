@@ -29,6 +29,7 @@ texture:
       url: "/posts/about_visuaudio/"
     - title: About Our Project 1 (Team Progress)
       url: "/posts/team_progress/"
+      <br>
     - title: About Our Project 2 (My Contribution)
       url: "/posts/contribute/"
     - title: About Our Project 3 (Direction)
