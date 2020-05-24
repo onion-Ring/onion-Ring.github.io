@@ -21,4 +21,3 @@ Contribution ways to improve the OSS PROJECT "Visuaudio"
   - 활발한 커밋
     - 프로젝트를 처음 만든 사람이 2주전을 기점으로 활동을 안함 => 커밋을 많이 하여 관심있는 사람들을 모아야 함
     
-<hr/>
