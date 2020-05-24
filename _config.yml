@@ -19,7 +19,7 @@ texture:
   title: My First Github Static Page
   tagline: SKKU.EEE 장병우
   date_format: "%b %-d, %Y"
-  style: red
+  style: blue
   showNav: true
   showPicker: false
   navigation:
