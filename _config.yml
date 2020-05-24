@@ -29,7 +29,7 @@ texture:
       url: "/posts/second-post/"
     - title: About Our Project 1 (Team Progress)
       url: "/posts/third-post/"
-    - title: About Our Project 2 (Contribution Method)
+    - title: About Our Project 2 (My Contribution)
       url: "/posts/fourth-post/"
 
   # generate social links in footer
