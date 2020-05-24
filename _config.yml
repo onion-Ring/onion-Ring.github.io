@@ -23,18 +23,6 @@ texture:
   showNav: true
   showPicker: false
   navigation: false
-  /*
-    - title: WHO AM I?
-      url: "/posts/intro_myself/"
-    - title: Assigned Project
-      url: "/posts/about_visuaudio/"
-    - title: About Our Project 1 (Team Progress)
-      url: "/posts/team_progress/"
-    - title: About Our Project 2 (My Contribution)
-      url: "/posts/contribute/"
-    - title: About Our Project 3 (Direction)
-      url: "/posts/direction/"*/
-
   # generate social links in footer
   social_links:
     twitter: thelehhman
