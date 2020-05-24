@@ -24,13 +24,15 @@ texture:
   showPicker: false
   navigation:
     - title: WHO AM I?
-      url: "/posts/first-post/"
+      url: "/posts/intro_myself/"
     - title: Assigned Project
-      url: "/posts/second-post/"
+      url: "/posts/about_visuaudio/"
     - title: About Our Project 1 (Team Progress)
-      url: "/posts/third-post/"
+      url: "/posts/team_progress/"
     - title: About Our Project 2 (My Contribution)
-      url: "/posts/fourth-post/"
+      url: "/posts/contribute/"
+    - title: About Our Project 3 (Direction)
+      url: "/posts/direction/"
 
   # generate social links in footer
   social_links:
